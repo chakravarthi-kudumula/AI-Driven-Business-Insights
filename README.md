@@ -9,7 +9,9 @@ This project focuses on building machine learning models to generate key busines
 <h5>The project is structured as follows:</h5>
 
 **Datasets:** Uploaded individually into Google Colab for each insight.
+
 **Model Implementation:** Each machine learning model is implemented sequentially within the Google Colab notebook for the respective insights.
+
 **No Frontend:** Currently, no frontend is implemented for reporting outputs. All results are displayed directly in the Colab notebook.
 
 <h3>Algorithms Used</h3>
