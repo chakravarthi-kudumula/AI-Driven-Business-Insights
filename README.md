@@ -28,8 +28,7 @@ This project focuses on building machine learning models to generate key busines
 <h3>Datasets</h3>
 
 <h5>Datasets are sourced from Kaggle for each business insight:</h5>
-<a href="https://www.w3schools.com">Proft Data</a>
-<a href="https://www.kaggle.com/datasets/pythonafroz/companies-profit"> Profit Prediction Dataset </a>
+<a href="https://www.kaggle.com/datasets/pythonafroz/companies-profit"> Profit Data </a><br>
 <a href="https://www.kaggle.com/datasets/mrsimple07/restaurants-revenue-prediction"> Revenue Dataset
 Sales Forecasting Dataset</a>
 <a href="https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset"> Customer Churn Dataset</a>
