@@ -19,4 +19,4 @@ By identifying attributes such as credit score, age, tenure, balance, number of 
 <h3>Pricing Optimization:</h3>
 Analyzing product attributes and competitor pricing helps set optimal prices that are both competitive and profitable. By considering factors such as product ID, quantity, total price, freight price, unit price, product photos quantity, product weight, and competitor prices, we ensure our pricing strategies attract customers while maximizing profits.
 
-These insights collectively empower businesses to make data-driven decisions, leading to improved operational efficiency, customer satisfaction, and financial performance. Integrating predictive analytics into business processes allows for proactive strategy adjustments, ensuring sustained growth and competitive advantage.
+<p>These insights collectively empower businesses to make data-driven decisions, leading to improved operational efficiency, customer satisfaction, and financial performance. Integrating predictive analytics into business processes allows for proactive strategy adjustments, ensuring sustained growth and competitive advantage.</p>
