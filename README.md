@@ -14,9 +14,9 @@ This project focuses on building machine learning models to generate key busines
 
 <h3>Algorithms Used</h3>
 Random Forest Regressor<br>
-Random Forest Classifier
+Random Forest Classifier<br>
 
-</h3>Libraries Used</h3>
+<h3>Libraries Used</h3>
 **pandas:** For data manipulation and cleaning.<br>
 **numpy:** For numerical operations.<br>
 **scikit-learn:** For machine learning models (Random Forest Regressor and Classifier).<br>
@@ -26,19 +26,19 @@ Random Forest Classifier
 
 <h5>Datasets are sourced from Kaggle for each business insight:</h5>
 <a href="https://www.kaggle.com/datasets/pythonafroz/companies-profit"> Profit Data </a><br>
-<a href="https://www.kaggle.com/datasets/mrsimple07/restaurants-revenue-prediction"> Revenue Data </a>
-<a href="https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast/data?select=train.csv">Sales Data</a>
-<a href="https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset"> Customer Churn Dataset</a>
-<a href="https://www.kaggle.com/datasets/suddharshan/retail-price-optimization"> Pricing Optimization Dataset</a>
+<a href="https://www.kaggle.com/datasets/mrsimple07/restaurants-revenue-prediction"> Revenue Data </a><br>
+<a href="https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast/data?select=train.csv">Sales Data</a><br>
+<a href="https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset"> Customer Churn Dataset</a><br>
+<a href="https://www.kaggle.com/datasets/suddharshan/retail-price-optimization"> Pricing Optimization Dataset</a><br>
 
 <h3>How to Run</h3>
-Clone the repository or access the notebook from Google Colab.<br>
-Upload the datasets into the Colab environment.<br>
-Run the cells sequentially to train the models and view the results.<br>
+1.Clone the repository or access the notebook from Google Colab.<br>
+2.Upload the datasets into the Colab environment.<br>
+3.Run the cells sequentially to train the models and view the results.<br>
 
 <h3>Future Enhancements</h3>
-Adding a frontend using Streamlit to display predictions and insights.<br>
-Expanding the dataset and models for more granular predictions.<br>
+1.Adding a frontend using Streamlit to display predictions and insights.<br>
+2.Expanding the dataset and models for more granular predictions.<br>
 
 
 
