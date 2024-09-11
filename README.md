@@ -13,8 +13,8 @@ This project focuses on building machine learning models to generate key busines
 **No Frontend:** Currently, no frontend is implemented for reporting outputs. All results are displayed directly in the Colab notebook.<br>
 
 <h3>Algorithms Used</h3>
-<p>Random Forest Regressor</p><br>
-<p>Random Forest Classifier</p><br>
+Random Forest Regressor<br>
+Random Forest Classifier<br>
 
 </h3>Libraries Used</h3>
 
