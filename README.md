@@ -8,40 +8,38 @@ This project focuses on building machine learning models to generate key busines
 
 <h5>The project is structured as follows:</h5>
 
-**Datasets:** Uploaded individually into Google Colab for each insight.
-
-**Model Implementation:** Each machine learning model is implemented sequentially within the Google Colab notebook for the respective insights.
-
-**No Frontend:** Currently, no frontend is implemented for reporting outputs. All results are displayed directly in the Colab notebook.
+**Datasets:** Uploaded individually into Google Colab for each insight.<br>
+**Model Implementation:** Each machine learning model is implemented sequentially within the Google Colab notebook for the respective insights.<br>
+**No Frontend:** Currently, no frontend is implemented for reporting outputs. All results are displayed directly in the Colab notebook.<br>
 
 <h3>Algorithms Used</h3>
-<p>Random Forest Regressor</p>
-<p>Random Forest Classifier</p>
+<p>Random Forest Regressor</p><br>
+<p>Random Forest Classifier</p><br>
 
 </h3>Libraries Used</h3>
 
-<p>**pandas:** For data manipulation and cleaning.</p>
-<p>**numpy:** For numerical operations.</p>
-<p>**scikit-learn:** For machine learning models (Random Forest Regressor and Classifier).</p>
-<p>**matplotlib & seaborn:** For visualizing data insights and model performance.</p>
+**pandas:** For data manipulation and cleaning.<br>
+**numpy:** For numerical operations.<br>
+**scikit-learn:** For machine learning models (Random Forest Regressor and Classifier).<br>
+**matplotlib & seaborn:** For visualizing data insights and model performance.<br>
 
 <h3>Datasets</h3>
 
 <h5>Datasets are sourced from Kaggle for each business insight:</h5>
 <a href="https://www.kaggle.com/datasets/pythonafroz/companies-profit"> Profit Data </a><br>
-<a href="https://www.kaggle.com/datasets/mrsimple07/restaurants-revenue-prediction"> Revenue Dataset
-Sales Forecasting Dataset</a>
+<a href="https://www.kaggle.com/datasets/mrsimple07/restaurants-revenue-prediction"> Revenue Data </a>
+<a href="https://www.kaggle.com/datasets/aslanahmedov/walmart-sales-forecast/data?select=train.csv">Sales Data</a>
 <a href="https://www.kaggle.com/datasets/saurabhbadole/bank-customer-churn-prediction-dataset"> Customer Churn Dataset</a>
 <a href="https://www.kaggle.com/datasets/suddharshan/retail-price-optimization"> Pricing Optimization Dataset</a>
 
 <h3>How to Run</h3>
-<p>Clone the repository or access the notebook from Google Colab.</p>
-<p>Upload the datasets into the Colab environment.</p>
-<p>Run the cells sequentially to train the models and view the results.</p>
+Clone the repository or access the notebook from Google Colab.<br>
+Upload the datasets into the Colab environment.<br>
+Run the cells sequentially to train the models and view the results.<br>
 
 <h3>Future Enhancements</h3>
-<p>Adding a frontend using Streamlit to display predictions and insights.</p>
-<p>Expanding the dataset and models for more granular predictions.</p>
+Adding a frontend using Streamlit to display predictions and insights.<br>
+Expanding the dataset and models for more granular predictions.<br>
 
 
 
