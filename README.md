@@ -17,10 +17,10 @@ Random Forest Regressor<br>
 Random Forest Classifier<br>
 
 <h3>Libraries Used</h3>
-**pandas:** For data manipulation and cleaning.<br>
-**numpy:** For numerical operations.<br>
-**scikit-learn:** For machine learning models (Random Forest Regressor and Classifier).<br>
-**matplotlib & seaborn:** For visualizing data insights and model performance.<br>
+pandas: For data manipulation and cleaning.<br>
+numpy: For numerical operations.<br>
+scikit-learn: For machine learning models (Random Forest Regressor and Classifier).<br>
+matplotlib & seaborn: For visualizing data insights and model performance.<br>
 
 <h3>Datasets</h3>
 
