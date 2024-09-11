@@ -14,10 +14,9 @@ This project focuses on building machine learning models to generate key busines
 
 <h3>Algorithms Used</h3>
 Random Forest Regressor<br>
-Random Forest Classifier<br>
+Random Forest Classifier
 
 </h3>Libraries Used</h3>
-
 **pandas:** For data manipulation and cleaning.<br>
 **numpy:** For numerical operations.<br>
 **scikit-learn:** For machine learning models (Random Forest Regressor and Classifier).<br>
